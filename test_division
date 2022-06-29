@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# test
+./division_checker.rb 0010 | cat -e
+./division_checker.rb 0100 | cat -e
+./division_checker.rb 0110 | cat -e
+./division_checker.rb 1000 | cat -e
+./division_checker.rb 1010 | cat -e
+./division_checker.rb 1100 | cat -e
+./division_checker.rb 1001 | cat -e
+./division_checker.rb 11001 | cat -e

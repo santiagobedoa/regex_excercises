@@ -5,3 +5,4 @@
 ./psswd_checker.rb EstoNoEsPassWord! | cat -e
 ./psswd_checker.rb Hola-grupo | cat -e
 ./psswd_checker.rb Diana0529@ | cat -e
+./psswd_checker.rb DDaaa123? | cat -e

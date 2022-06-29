@@ -8,3 +8,5 @@
 ./division_checker.rb 1100 | cat -e
 ./division_checker.rb 1001 | cat -e
 ./division_checker.rb 11001 | cat -e
+./division_checker.rb 110010 | cat -e
+./division_checker.rb 110010000 | cat -e

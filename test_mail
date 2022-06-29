@@ -6,3 +6,4 @@
 ./mail_checker.rb Hola.grupo@ | cat -e
 ./mail_checker.rb corro.valido@holberton.com.co | cat -e
 ./mail_checker.rb otro@holberton.com | cat -e
+./mail_checker.rb otro@@holberton.com | cat -e

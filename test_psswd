@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# test
+./psswd_checker.rb HolaComoEstas? | cat -e
+./psswd_checker.rb PASSword#0123 | cat -e
+./psswd_checker.rb EstoNoEsPassWord! | cat -e
+./psswd_checker.rb Hola-grupo | cat -e
+./psswd_checker.rb Diana0529@ | cat -e

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# test
+./tres_unos.rb 00111 | cat -e
+./tres_unos.rb 01011 | cat -e
+./tres_unos.rb 01101 | cat -e
+./tres_unos.rb 01110 | cat -e
+./tres_unos.rb 10011 | cat -e
+./tres_unos.rb 10101 | cat -e
+./tres_unos.rb 11002 | cat -e
+./tres_unos.rb 11111 | cat -e

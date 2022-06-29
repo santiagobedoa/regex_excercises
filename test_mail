@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# test
+./mail_checker.rb ejemplo.123@holberton.app | cat -e
+./mail_checker.rb ejemplo@holschool.edu.mx | cat -e
+./mail_checker.rb hola.juan@holberton.123 | cat -e
+./mail_checker.rb Hola.grupo@ | cat -e
+./mail_checker.rb corro.valido@holberton.com.co | cat -e
+./mail_checker.rb otro@holberton.com | cat -e

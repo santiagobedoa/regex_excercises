@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# test
+./psswd_checker.rb HolaComoEstas?
+./psswd_checker.rb PASSword#0123
+./psswd_checker.rb EstoNoEsPassWord!
+./psswd_checker.rb wordPASS#0123
+./psswd_checker.rb Hola-grupo
+./psswd_checker.rb Diana0529@
+./psswd_checker.rb DDDaaa829
